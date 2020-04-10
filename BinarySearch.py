@@ -24,6 +24,7 @@ n=int(input('enter the number :'))
 
 search(l1,n)
 print('hi')
+print('hello')
 
 
 
