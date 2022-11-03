@@ -1,0 +1,9 @@
+{
+	"name": "DFvenketTest",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "76a50177-583e-4df2-b69c-3ec3591d5c8e",
+		"tenantId": "1229b78e-da5b-44b1-b9ae-fcc9909f8c2f"
+	}
+}
